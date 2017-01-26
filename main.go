@@ -44,6 +44,7 @@ func main() {
 		fmt.Println("Please pass argument translate word that you want.")
 		os.Exit(1)
 	}
+
 	text := strings.Join(os.Args[1:], " ")
 	from := "ja"
 	to := "en"
