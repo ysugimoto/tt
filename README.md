@@ -25,7 +25,7 @@ Put statement following `tt` command arguments:
 
 ```
 $ tt hello world
->> ハローワールド;
+>> ハローワールド
 ```
 
 This tool detect automatic translation from->to. Translation supports `en->ja` or `ja->en` only.
